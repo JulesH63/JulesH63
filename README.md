@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Etudiant+MMI+%C3%A0+l'IUT+de+Troyes)](https://git.io/typing-svg)
 
 <!--
 **JulesH63/JulesH63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
